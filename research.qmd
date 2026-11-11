@@ -72,8 +72,8 @@ coloured by cell type. From Tremblay, Pai and Nobori, poster at Plant Biology 20
 I train and interpret deep sequence-to-function models of chromatin accessibility
 and transcription initiation, and use them to ask which sequence features explain
 regulatory activity. At The Sainsbury Laboratory I have trained models from scratch
-and fine-tuned ChromBPNet and seq2PRINT on single-cell ATAC-seq data from about
-30,000 flg22-treated *Arabidopsis* cells, evaluating their accuracy and biases and
+and fine-tuned ChromBPNet and seq2PRINT on single-cell ATAC-seq data from
+flg22-treated *Arabidopsis* seedlings, evaluating their accuracy and biases and
 interpreting their predictions with attribution and feature ablation. This builds
 on my long-running work on sequence motifs and the
 [universalmotif](software.qmd) package.

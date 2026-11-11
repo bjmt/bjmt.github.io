@@ -2,11 +2,9 @@
 title: "Software"
 ---
 
-I write open-source software for genomics in C, C++, R, Rust and Python, tested
-with continuous integration and released through five registries (Bioconductor,
-CRAN, Bioconda, PyPI and crates.io). The tools are built for genome-scale data, and
-I keep maintaining what I release: universalmotif has been in continuous development since 2018 and has been
-downloaded more than 150,000 times.
+I write open-source software for genomics in C, C++, R, Rust and Python, built for
+genome-scale data, tested with continuous integration and released through five
+registries (Bioconductor, CRAN, Bioconda, PyPI and crates.io).
 
 ## universalmotif
 
@@ -47,8 +45,8 @@ quaqcr: [CRAN](https://cran.r-project.org/package=quaqcr) ·
 ## Machine learning on regulatory sequence
 
 I train deep sequence-to-function models of chromatin accessibility, ChromBPNet in
-TensorFlow and seq2PRINT in PyTorch, on single-cell ATAC-seq data from about 30,000
-*Arabidopsis* cells. The work covers training from scratch and fine-tuning,
+TensorFlow and seq2PRINT in PyTorch, on single-cell ATAC-seq data from
+*Arabidopsis*. The work covers training from scratch and fine-tuning,
 evaluating accuracy and biases, and interpreting predictions with attribution and
 feature ablation (more on the [Research](research.qmd#models-of-regulatory-sequence)
 page). universalmotif draws the contribution-weight motifs that these models

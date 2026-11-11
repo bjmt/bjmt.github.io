@@ -26,8 +26,12 @@ about:
       href: https://orcid.org/0000-0002-7441-2951
 ---
 
-I work out how regulatory DNA determines where transcription starts and how much of
-it occurs, and I build the assays, models and software needed to measure it.
+I study how regulatory DNA controls transcription in plants: where transcription
+starts, how much of it happens, and how those decisions change during development
+and in response to the environment. My work combines genome-wide assays of
+transcription initiation and chromatin, plant genetics, and computational models
+of regulatory sequence, and I write and maintain open-source software for the
+genomics community.
 
 Using csRNA-seq during *Arabidopsis* germination, I showed that active plant
 enhancers are transcribed into enhancer RNAs, as in animals, and that bidirectional
