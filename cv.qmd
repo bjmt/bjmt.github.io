@@ -4,6 +4,49 @@ title: "CV"
 
 [Download my CV (PDF)](files/Tremblay_CV.pdf){.btn .btn-outline-primary}
 
+## Education
+
+**PhD, Plant Biology and Biotechnology** (2024)\
+CRAG / Autonomous University of Barcelona, Spain\
+*Non-coding regulation of transcription during plant development*\
+Supervisor: Julia Qüesta. Cum Laude, International Doctorate Mention
+
+**MSc, Biology** (2019)\
+University of Waterloo, Canada\
+*Investigating the impact of 5'-methylthioadenosine accumulation in* Arabidopsis thaliana\
+Supervisor: Barbara Moffatt. Dean of Science Award
+
+**BSc, Honours Biology** (2016)\
+University of Waterloo, Canada
+
+## Positions
+
+**Postdoctoral Scientist** (2024 to present)\
+The Sainsbury Laboratory, Nobori group, Norwich, UK
+
+**International PhD secondment** (2024)\
+Institute of Plant Sciences Paris-Saclay (IPS2), ChromD team, France
+
+**Research Assistant and PhD researcher** (2020 to 2024)\
+Centre for Research in Agricultural Genomics (CRAG), Epigenetics and Plant
+Development group, Barcelona, Spain
+
+**Bioinformatics Research Assistant** (2019 to 2020)\
+University of Waterloo, Doxey lab, Canada
+
+**MSc researcher** (2016 to 2019)\
+University of Waterloo, Moffatt lab, Canada
+
+**Summer Research Student** (2016)\
+Heidelberg University, Hell lab, Germany\
+Ontario/Baden-Württemberg Summer Research Program
+
+## Publications
+
+21 peer-reviewed publications, 10 as first or co-first author and 3 as
+corresponding author, plus a book chapter; full list on the
+[Publications](publications.qmd) page.
+
 ## Awards and recognition
 
 - BBSRC Early Independence Fellowship, shortlisted to full stage (2026)
@@ -11,14 +54,28 @@ title: "CV"
 - FPI Doctoral Fellowship, Spanish Ministry, EUR 98,250 (2020–2024)
 - Dean of Science Award, University of Waterloo (2019)
 
-## Service
+## Mentoring
 
-- Assistant Features Editor, *Plant Physiology* (2026–2028)
-- Peer reviewer for *The Plant Cell*, *Genome Biology*, *Bioinformatics Advances*,
-  *BMC Bioinformatics*, *BMC Genomics*, *BMC Plant Biology*, *Plant Direct* and
-  *PeerJ*
-- Member, American Society of Plant Biologists (ASPB) and British Society for Plant
-  Pathology (BSPP) (2026 to present)
+- PhD rotation student Revocatus Byanyuma-Bahitwa, Nobori group, The Sainsbury Laboratory (2026)
+- Predoctoral intern Vidyashree Shivakumaraswamy, Nobori group, The Sainsbury Laboratory (2024–2025)
+- MSc thesis co-supervisor for Cristina P. Santini, CRAG (2022–2023): thesis on
+  antisense long non-coding RNAs in *Arabidopsis* germination; co-author on our
+  [*Nature Communications* paper](https://doi.org/10.1038/s41467-024-46082-5)
+- Honours thesis mentor for Saeer Adeel (2018–2019) and John Steele (2016–2017),
+  University of Waterloo; both are co-authors on our
+  [*Journal of Experimental Botany* paper](https://doi.org/10.1093/jxb/erag135)
+
+## Teaching
+
+- Graduate lecturer, Autonomous University of Barcelona (2023): two weeks of the
+  graduate course *Molecular basis of plant development and responses to the
+  environment*, on embryo development, germination and dormancy, and epigenetics in
+  development
+- Laboratory teaching assistant, University of Waterloo (2014–2018): five
+  undergraduate courses, from introductory plant biology and cell biology to plant
+  physiology and plant molecular genetics
+- Tutorial teaching assistant, University of Waterloo (2013): molecular biology
+  techniques
 
 ## Selected talks
 
@@ -37,13 +94,14 @@ title: "CV"
   5'-methylthioadenosine nucleosidase deficient plants. Canadian Society of Plant
   Biologists Eastern Regional Meeting, London, Canada (2018)
 
-## Teaching and mentoring
+## Service
 
-- Graduate lecturer, Autonomous University of Barcelona (2023): plant development,
-  germination and dormancy, epigenetics
-- Laboratory and tutorial teaching assistant, University of Waterloo (2013–2018)
-- Mentored five trainees across three institutions, from honours students to a PhD
-  rotation student
+- Assistant Features Editor, *Plant Physiology* (2026–2028)
+- Peer reviewer for *The Plant Cell*, *Genome Biology*, *Bioinformatics Advances*,
+  *BMC Bioinformatics*, *BMC Genomics*, *BMC Plant Biology*, *Plant Direct* and
+  *PeerJ*
+- Member, American Society of Plant Biologists (ASPB) and British Society for Plant
+  Pathology (BSPP)
 
 ## Training
 
