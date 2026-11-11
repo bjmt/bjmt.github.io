@@ -33,9 +33,8 @@ transcription initiation and chromatin, plant genetics, and computational models
 of regulatory sequence, and I write and maintain open-source software for the
 genomics community.
 
-Using csRNA-seq during *Arabidopsis* germination, I showed that active plant
-enhancers are transcribed into enhancer RNAs, as in animals, and that bidirectional
-non-coding promoters are widespread across the genome
+Using csRNA-seq during *Arabidopsis* germination, I showed that plant enhancers can
+be transcribed into enhancer RNAs, as in animals
 ([Nature Communications, 2024](https://doi.org/10.1038/s41467-024-46082-5)). I also
 wrote and maintain [universalmotif](software.qmd#universalmotif), a toolkit for
 sequence motif analysis that has been downloaded more than 150,000 times since 2018.
