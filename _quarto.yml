@@ -5,6 +5,8 @@ project:
 website:
   title: "Benjamin Tremblay"
   site-url: https://bjmt.github.io
+  open-graph: true
+  twitter-card: true
   description: "How regulatory DNA controls transcription: transcription initiation, enhancers, chromatin and sequence models, mostly in plants."
   navbar:
     left:
