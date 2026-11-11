@@ -21,6 +21,11 @@ author.
 - Banerjee A\*, Doxey AC\*, **Tremblay BJM\***, Mansfield MJ\*, et al. (2020). Predicting the recombination potential of severe acute respiratory syndrome coronavirus 2 and Middle East respiratory syndrome coronavirus. *Journal of General Virology* 101, 1251–1260.
   [doi:10.1099/jgv.0.001491](https://doi.org/10.1099/jgv.0.001491)
 
+## Preprints
+
+- Cameron ES, **Tremblay BJM**, Yahr R, et al. (2026). Transposable element diversification and the evolution of Peltigerales lichen symbionts. *bioRxiv*.
+  [doi:10.64898/2026.02.14.705750](https://doi.org/10.64898/2026.02.14.705750)
+
 ## Software papers
 
 - **Tremblay BJM†**, Qüesta JI† (2024). quaqc: efficient and quick ATAC-seq quality control and filtering. *Bioinformatics* 40, btae649.
@@ -61,11 +66,6 @@ author.
   [doi:10.1093/jxb/eraf051](https://doi.org/10.1093/jxb/eraf051)
 - **Tremblay BJM**, Qüesta JI (2023). Mechanisms of epigenetic regulation of transcription by lncRNAs in plants. *IUBMB Life* 75, 427–439.
   [doi:10.1002/iub.2681](https://doi.org/10.1002/iub.2681)
-
-## Preprints
-
-- Cameron ES, **Tremblay BJM**, Yahr R, et al. (2026). Transposable element diversification and the evolution of Peltigerales lichen symbionts. *bioRxiv*.
-  [doi:10.64898/2026.02.14.705750](https://doi.org/10.64898/2026.02.14.705750)
 
 ## Features in *Plant Physiology*
 
