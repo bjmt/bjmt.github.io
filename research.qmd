@@ -91,17 +91,3 @@ profiling viral receptors and interferon responses in human airway epithelium
 1,934 *C. difficile* genomes, with hypervirulent epidemic strains starred. From
 Mansfield, Tremblay et al. (2020), *PLOS Pathogens*, Fig. 2A
 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/cdiff.png){width=70% fig-align="center" fig-alt="Circular phylogenetic tree of C. difficile genomes with coloured rings of toxin subtypes"}
-
-## Open questions
-
-The threads above meet in a few questions I think are now within reach:
-
-- How much of a gene's response to an immune signal is set by its enhancers rather
-  than its promoter, and does that balance differ between cell types?
-- Cell types that respond with the same WRKY transcription factors still produce
-  different immune programmes. Is that difference written in enhancer sequence, in
-  the chromatin each cell type starts from, or in both?
-- Can sequence-to-function models trained on transcription initiation and
-  single-cell chromatin data predict, from sequence alone, which regulatory elements
-  will respond to a signal and in which cells, well enough to design elements that
-  behave as predicted?
