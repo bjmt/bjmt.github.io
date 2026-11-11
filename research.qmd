@@ -2,33 +2,30 @@
 title: "Research"
 ---
 
-I am interested in how cells decide when, where and how strongly to express their
-genes, with a focus on plants. Most of my work is about transcription: how
-regulatory DNA and chromatin determine where it begins and how much of it occurs,
-and how this changes during development and in response to the environment. I
-combine genome-wide assays and genetics with computational models of regulatory
-sequence.
+I want to understand how regulatory DNA determines where transcription starts and
+how much of it occurs, and how development and the environment change those
+decisions. Most of my work is in plants, and I build the assays, models and
+software needed to measure this: genome-wide profiling of transcription initiation
+and chromatin, genetics, and sequence-to-function models.
 
 ## Transcription initiation and enhancers
 
 Much of what a promoter does is visible only at the level of transcription start
-sites. Using csRNA-seq, which captures nascent initiation events directly, I showed
-that divergent and non-coding transcription is an active part of gene regulation
-during the *Arabidopsis* seed-to-seedling transition, validated it
-genetically, and found that active plant enhancers are transcribed
-into enhancer RNAs, as in animals
+sites. Using csRNA-seq, which captures nascent initiation events directly, I mapped
+transcription initiation across the *Arabidopsis* seed-to-seedling transition and
+validated divergent transcription genetically. From non-coding transcription I
+identified about 1,900 putative enhancers active during germination, and reporter
+assays confirmed that transcribed regions of this kind can act as enhancers, showing
+that at least some *Arabidopsis* enhancers produce enhancer RNAs, as in animals
 ([Nature Communications, 2024](https://doi.org/10.1038/s41467-024-46082-5)).
 
-Because active enhancers are transcribed, csRNA-seq finds them genome-wide,
-including many that chromatin accessibility alone misses. I am using it
-to identify *Arabidopsis* enhancers during development and to link them to the genes
-they control. I am also taking these approaches beyond plants: with collaborators, I
-am profiling transcription initiation in the algal and fungal partners of lichens,
-building on our work on transposable element diversification in lichen symbionts
-([bioRxiv, 2026](https://doi.org/10.64898/2026.02.14.705750)). During my PhD I also
-led the bioinformatics for a multi-laboratory study of how *Arabidopsis*
-transcription changes as autumn progresses into winter under simulated field
-temperatures ([Genome Biology, 2026](https://doi.org/10.1186/s13059-026-04289-3)).
+csRNA-seq detects the active enhancers that are transcribed, so it complements
+chromatin accessibility rather than replacing it, and I now use the two together to
+identify *Arabidopsis* enhancers during development and link them to the genes they
+control. With collaborators I am also profiling transcription initiation in the
+algal and fungal partners of lichens, building on our work on transposable element
+diversification in lichen symbionts
+([bioRxiv, 2026](https://doi.org/10.64898/2026.02.14.705750)).
 
 ![Divergent transcription at *Arabidopsis* bidirectional promoters: read density from
 csRNA-seq, RNA-seq, ATAC-seq, RNA polymerase II ChIP-seq and MNase-seq, with promoters
@@ -36,16 +33,34 @@ ordered by the distance between their two start sites. From Tremblay et al. (202
 *Nature Communications*, Fig. 6d
 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/initiation.png){fig-alt="Five heatmaps of sequencing signal around divergent promoters"}
 
+## Transcription in a changing environment
+
+Development is one driver of transcriptional change and the environment is another,
+acting over timescales from weeks to minutes. As co-first author I led the
+bioinformatics for a multi-laboratory study that followed *Arabidopsis* through
+weeks of gradually falling temperatures mimicking autumn and early winter, including
+daily fluctuations. We found two distinct transcriptional programmes, one responding
+to moderate cooling and one to temperatures below 10 °C, showed that the clock gene
+*CCA1* is essential for both, and found that cold-induced genes gain promoter
+accessibility while repressed genes keep theirs, so that transcription can resume
+quickly when it warms again
+([Genome Biology, 2026](https://doi.org/10.1186/s13059-026-04289-3)).
+
+![*Arabidopsis* plants moved from 22 °C into constant, gradually cooling or fluctuating
+temperature regimes that follow autumn field temperatures recorded in Sweden. From
+Ormancey, Tremblay, Cheng et al. (2026), *Genome Biology*, Fig. 1A–C
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/seasons.png){width=65% fig-align="center" fig-alt="Experimental design, temperature profiles and photos of Arabidopsis plants in three temperature regimes"}
+
 ## Plant immunity
 
-At The Sainsbury Laboratory I study how plant cells switch on immune responses. I
-combine a csRNA-seq time course with single-nucleus RNA and ATAC multiomics of
-*Arabidopsis* seedlings treated with flg22, a bacterial elicitor of pattern-triggered
-immunity, to map the enhancers that immunity activates, connect them to their target
-genes and resolve how each cell type responds. So far the mesophyll mounts the
-strongest early defence response, and early and later cell type-specific responses
-appear to be driven largely by the same WRKY transcription factors (posters from
-[2025](https://doi.org/10.5281/zenodo.21476383) and
+Immune responses are the fast end of that range. At The Sainsbury Laboratory I study
+how plant cells switch them on, combining a csRNA-seq time course with
+single-nucleus RNA and ATAC multiomics of *Arabidopsis* seedlings treated with
+flg22, a bacterial elicitor of pattern-triggered immunity. The aim is to map the
+enhancers that immunity activates, connect them to their target genes and resolve
+how each cell type responds. So far the early response and the later cell
+type-specific responses share a common signature of WRKY-family motif activity
+(posters from [2025](https://doi.org/10.5281/zenodo.21476383) and
 [2026](https://doi.org/10.5281/zenodo.21476601)).
 
 ![Single-nucleus multiome profiles of 25,728 nuclei from *Arabidopsis* seedlings,
@@ -59,7 +74,8 @@ and transcription initiation, and use them to ask which sequence features explai
 regulatory activity. At The Sainsbury Laboratory I have trained models from scratch
 and fine-tuned ChromBPNet and seq2PRINT on single-cell ATAC-seq data from about
 30,000 flg22-treated *Arabidopsis* cells, evaluating their accuracy and biases and
-interpreting their predictions with attribution and feature ablation. This builds on my long-running work on sequence motifs and the
+interpreting their predictions with attribution and feature ablation. This builds
+on my long-running work on sequence motifs and the
 [universalmotif](software.qmd) package.
 
 ![A contribution-weight logo of a CACGTG motif, in which bases can contribute
@@ -71,7 +87,8 @@ For my MSc I studied what happens when plants cannot efficiently recycle
 methylthioadenosine (MTA): it builds up in reproductive tissues, disrupts sulfur
 assimilation and lowers fertility
 ([Journal of Experimental Botany, 2026](https://doi.org/10.1093/jxb/erag135)).
-Between my MSc and PhD I worked on the comparative genomics of bacterial pathogens,
+Between my MSc and PhD I worked as a bioinformatics research assistant at the
+University of Waterloo on the comparative genomics of bacterial pathogens,
 including the phylogenomics of 8,839 *Clostridioides difficile* genomes
 ([PLOS Pathogens, 2020](https://doi.org/10.1371/journal.ppat.1009181)), phylogenetic
 profiling of bacterial gene function

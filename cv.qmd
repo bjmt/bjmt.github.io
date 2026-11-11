@@ -49,10 +49,10 @@ corresponding author, plus a book chapter; full list on the
 
 ## Awards and recognition
 
-- BBSRC Early Independence Fellowship, shortlisted to full stage (2026)
-- International Doctorate Mention, Autonomous University of Barcelona (2024)
 - FPI Doctoral Fellowship, Spanish Ministry, EUR 98,250 (2020–2024)
+- International Doctorate Mention, Autonomous University of Barcelona (2024)
 - Dean of Science Award, University of Waterloo (2019)
+- BBSRC Early Independence Fellowship, shortlisted to full stage (2026)
 
 ## Mentoring
 
@@ -100,8 +100,6 @@ corresponding author, plus a book chapter; full list on the
 - Peer reviewer for *The Plant Cell*, *Genome Biology*, *Bioinformatics Advances*,
   *BMC Bioinformatics*, *BMC Genomics*, *BMC Plant Biology*, *Plant Direct* and
   *PeerJ*
-- Member, American Society of Plant Biologists (ASPB) and British Society for Plant
-  Pathology (BSPP)
 
 ## Training
 

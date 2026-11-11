@@ -2,11 +2,10 @@
 title: "Software"
 ---
 
-I write research software to the standards of production code. My tools are
-written in C, C++, R, Rust and Python, tested with continuous integration, and
-released through five registries (Bioconductor, CRAN, Bioconda, PyPI and
-crates.io). They are built for genome-scale data, and I keep maintaining what I
-release: universalmotif has been in continuous development since 2018 and has been
+I write open-source software for genomics in C, C++, R, Rust and Python, tested
+with continuous integration and released through five registries (Bioconductor,
+CRAN, Bioconda, PyPI and crates.io). The tools are built for genome-scale data, and
+I keep maintaining what I release: universalmotif has been in continuous development since 2018 and has been
 downloaded more than 150,000 times.
 
 ## universalmotif
@@ -67,7 +66,7 @@ produce.
   parser gets wrong (C).
 - [msaviz](https://github.com/bjmt/msaviz): visualisation of multiple sequence
   alignments as ggplot2 heatmaps or lollipop charts, fast even for alignments with
-  millions of cells (R).
+  millions of residues (R).
 
 ## Data resources
 
