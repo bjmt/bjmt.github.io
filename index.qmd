@@ -30,9 +30,11 @@ genomics community.
 I am a postdoctoral scientist in [Tatsuya Nobori's group](https://www.tsl.ac.uk/our-work/scientific-groups/tatsuya-nobori-group)
 at The Sainsbury Laboratory in Norwich, where I use capped-small RNA sequencing
 (csRNA-seq), single-nucleus multiomics and sequence-to-function models to study how
-plant cells switch on immune responses. Before that I did my PhD with Julia Qüesta
+plant cells switch on immune responses. Before that I did my PhD with
+[Julia Qüesta](https://www.cragenomica.es/research-groups/epigenetics-and-plant-development)
 at CRAG in Barcelona on non-coding transcription during the seed-to-seedling
-transition, and my MSc at the University of Waterloo with Barbara Moffatt.
+transition, and my MSc at the University of Waterloo with
+[Barbara Moffatt](https://uwaterloo.ca/biology/profiles/barbara-moffatt).
 
 ## Education
 
