@@ -5,7 +5,7 @@ project:
 website:
   title: "Benjamin Tremblay"
   site-url: https://bjmt.github.io
-  description: "Transcriptional regulation in plants: transcription initiation, chromatin and gene-regulatory evolution."
+  description: "How regulatory DNA controls transcription: transcription initiation, enhancers, chromatin and sequence models, mostly in plants."
   navbar:
     left:
       - href: index.qmd
