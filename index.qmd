@@ -2,7 +2,11 @@
 title: "Benjamin Jean-Marie Tremblay"
 subtitle: "How regulatory DNA controls transcription"
 pagetitle: "Benjamin Tremblay"
-description: "How regulatory DNA controls transcription: transcription initiation, enhancers, chromatin and sequence models, mostly in plants."
+description-meta: "How regulatory DNA controls transcription: transcription initiation, enhancers, chromatin and sequence models, mostly in plants."
+open-graph:
+  description: "How regulatory DNA controls transcription: transcription initiation, enhancers, chromatin and sequence models, mostly in plants."
+twitter-card:
+  description: "How regulatory DNA controls transcription: transcription initiation, enhancers, chromatin and sequence models, mostly in plants."
 image: images/profile.jpg
 image-alt: "Portrait of Benjamin Tremblay"
 about:
