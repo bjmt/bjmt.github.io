@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Jean-Marie Tremblay"
-subtitle: "Transcriptional regulation in plants"
+subtitle: "How regulatory DNA controls transcription"
 pagetitle: "Benjamin Tremblay"
 image: images/profile.jpg
 image-alt: "Portrait of Benjamin Tremblay"
