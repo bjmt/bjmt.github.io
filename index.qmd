@@ -33,8 +33,10 @@ at The Sainsbury Laboratory in Norwich, where I use capped-small RNA sequencing
 plant cells switch on immune responses. Before that I did my PhD with
 [Julia Qüesta](https://www.cragenomica.es/research-groups/epigenetics-and-plant-development)
 at CRAG in Barcelona on non-coding transcription during the seed-to-seedling
-transition, and my MSc at the University of Waterloo with
-[Barbara Moffatt](https://uwaterloo.ca/biology/profiles/barbara-moffatt).
+transition. For my MSc at the University of Waterloo I worked with
+[Barbara Moffatt](https://uwaterloo.ca/biology/profiles/barbara-moffatt) on how a
+build-up of methylthioadenosine (MTA), a by-product of polyamine and ethylene
+synthesis, disrupts sulfur metabolism and reduces fertility in *Arabidopsis*.
 
 ## Education
 
