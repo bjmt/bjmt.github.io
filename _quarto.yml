@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Benjamin Tremblay"
+  site-url: https://bjmt.github.io
+  description: "Transcriptional regulation in plants: transcription initiation, chromatin and gene-regulatory evolution."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: software.qmd
+        text: Software
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/bjmt
+        aria-label: GitHub
+      - text: Scholar
+        href: https://scholar.google.com/citations?user=IvuHC1UAAAAJ
+      - text: ORCID
+        href: https://orcid.org/0000-0002-7441-2951
+  page-footer:
+    left: "© 2026 Benjamin Jean-Marie Tremblay"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

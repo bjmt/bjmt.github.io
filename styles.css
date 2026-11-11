@@ -1,0 +1,8 @@
+/* Keep body text at a comfortable reading width. */
+main.content {
+  max-width: 46rem;
+}
+
+.about-entity .about-link {
+  font-size: 0.9rem;
+}

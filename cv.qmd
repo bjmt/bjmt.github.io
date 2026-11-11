@@ -1,0 +1,50 @@
+---
+title: "CV"
+---
+
+[Download my CV (PDF)](files/Tremblay_CV.pdf){.btn .btn-outline-primary}
+
+## Awards and recognition
+
+- BBSRC Early Independence Fellowship, shortlisted to full stage (2026)
+- International Doctorate Mention, Autonomous University of Barcelona (2024)
+- FPI Doctoral Fellowship, Spanish Ministry, EUR 98,250 (2020–2024)
+- Dean of Science Award, University of Waterloo (2019)
+
+## Service
+
+- Assistant Features Editor, *Plant Physiology* (2026–2028)
+- Peer reviewer for *The Plant Cell*, *Genome Biology*, *Bioinformatics Advances*,
+  *BMC Bioinformatics*, *BMC Genomics*, *BMC Plant Biology*, *Plant Direct* and
+  *PeerJ*
+- Member, American Society of Plant Biologists (ASPB) and British Society for Plant
+  Pathology (BSPP) (2026 to present)
+
+## Selected talks
+
+- Resolving the cell state-specific regulatory logic of plant immunity with
+  single-nucleus multiome profiling. Norwich single-cell and spatial symposium,
+  Earlham Institute, Norwich, UK (2026)
+- Identification of *Arabidopsis* transcriptional enhancers during development.
+  EpiPlant2026, Nantes, France (2026)
+- Control of germination by chromatin accessibility and non-coding transcription.
+  8th European Workshop on Plant Chromatin, Barcelona, Spain (2024)
+- The regulatory landscape of transcription during the seed-to-seedling transition.
+  EpiPlant2022, Banyuls-sur-Mer, France (2022)
+- Large-scale analyses of biological sequence motifs with the universalmotif package.
+  BioC2021 (virtual, 2021)
+- Effects of transgenerational spermidine-restoration of fertility in
+  5'-methylthioadenosine nucleosidase deficient plants. Canadian Society of Plant
+  Biologists Eastern Regional Meeting, London, Canada (2018)
+
+## Teaching and mentoring
+
+- Graduate lecturer, Autonomous University of Barcelona (2023): plant development,
+  germination and dormancy, epigenetics
+- Laboratory and tutorial teaching assistant, University of Waterloo (2013–2018)
+- Mentored five trainees across three institutions, from honours students to a PhD
+  rotation student
+
+## Training
+
+- EMBO Lab Leadership for Postdocs, John Innes Centre (2025)

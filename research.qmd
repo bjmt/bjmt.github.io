@@ -1,0 +1,100 @@
+---
+title: "Research"
+---
+
+I am interested in how cells decide when, where and how strongly to express their
+genes, with a focus on plants. Most of my work is about transcription: how
+regulatory DNA and chromatin determine where it begins and how much of it occurs,
+and how this changes during development and in response to the environment. I
+combine genome-wide assays and genetics with computational models of regulatory
+sequence, and earlier in my career I applied comparative genomics to bacterial
+pathogens.
+
+## Transcription initiation and non-coding transcription
+
+Much of what a promoter does is visible only at the level of transcription start
+sites. Using csRNA-seq, which captures nascent initiation events directly, I showed
+that divergent and non-coding transcription is an active part of gene regulation
+during the *Arabidopsis* seed-to-seedling transition, and validated these events
+genetically
+([Nature Communications, 2024](https://doi.org/10.1038/s41467-024-46082-5)).
+
+![Divergent transcription at *Arabidopsis* bidirectional promoters: read density from
+csRNA-seq, RNA-seq, ATAC-seq, RNA polymerase II ChIP-seq and MNase-seq, with promoters
+ordered by the distance between their two start sites. From Tremblay et al. (2024),
+*Nature Communications*, Fig. 6d
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/initiation.png){fig-alt="Five heatmaps of sequencing signal around divergent promoters"}
+
+## Gene regulation in a changing environment
+
+Plants in the field experience fluctuating temperature, light and pathogens. I led
+the bioinformatics for a multi-laboratory study of how *Arabidopsis* transcription
+changes as autumn progresses into winter under simulated field temperatures
+([Genome Biology, 2026](https://doi.org/10.1186/s13059-026-04289-3)). At The
+Sainsbury Laboratory I am combining csRNA-seq with single-nucleus RNA and ATAC
+multiomics to connect immune-responsive transcription to candidate enhancers and to
+resolve how individual cell types respond to infection (posters from
+[2025](https://doi.org/10.5281/zenodo.21476383) and
+[2026](https://doi.org/10.5281/zenodo.21476601)). I am also taking these
+approaches beyond plants: with collaborators, I am profiling transcription
+initiation in the algal and fungal partners of lichens, building on our work on
+transposable element diversification in lichen symbionts
+([bioRxiv, 2026](https://doi.org/10.64898/2026.02.14.705750)).
+
+![*Arabidopsis* plants moved from 22 °C into constant, gradually cooling or fluctuating
+temperature regimes that follow autumn field temperatures recorded in Sweden. From
+Ormancey, Tremblay, Cheng et al. (2026), *Genome Biology*, Fig. 1A–C
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/seasons.png){width=65% fig-align="center" fig-alt="Experimental design, temperature profiles and photos of Arabidopsis plants in three temperature regimes"}
+
+## Sulfur metabolism and plant development
+
+My MSc work asked what happens when plants cannot efficiently recycle
+methylthioadenosine (MTA), a by-product of polyamine, nicotianamine and ethylene
+synthesis. MTA
+builds up mainly in reproductive tissues, where it disrupts sulfur assimilation and
+lowers the methyl index, with knock-on effects on gene expression and DNA
+methylation that reduce fertility
+([Journal of Experimental Botany, 2026](https://doi.org/10.1093/jxb/erag135)).
+
+![The sulfur assimilation pathway, SAM cycle and methionine salvage, showing where
+MTA is produced during the synthesis of polyamines (Spd, Spm, Tspm), nicotianamine
+(NA) and ethylene (Eth). From Tremblay et al. (2026), *Journal of Experimental
+Botany*, Fig. 3A
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/sulfur.png){width=40% fig-align="center" fig-alt="Diagram of sulfur assimilation, the SAM cycle and methionine salvage"}
+
+## Models of regulatory sequence
+
+I train and interpret deep sequence-to-function models of chromatin accessibility
+and transcription initiation, and use them to ask which sequence features explain
+regulatory activity. This builds on my long-running work on sequence motifs and the
+[universalmotif](software.qmd) package.
+
+![A contribution-weight logo of a CACGTG motif, in which bases can contribute
+positively or negatively, drawn with universalmotif.](images/research/motif.png){fig-alt="Sequence logo with positive and negative base contributions around a CACGTG motif"}
+
+## Microbial genomics
+
+Between my MSc and PhD I worked on the comparative genomics of bacterial pathogens,
+including the phylogenomics of 8,839 *Clostridioides difficile* genomes
+([PLOS Pathogens, 2020](https://doi.org/10.1371/journal.ppat.1009181)) and
+phylogenetic profiling of bacterial gene function
+([Bioinformatics, 2021](https://doi.org/10.1093/bioinformatics/btaa1105)). I also
+contributed to studies identifying TFPI as a receptor for *C. difficile* toxin B
+variants ([Nature Communications, 2022](https://doi.org/10.1038/s41467-022-33964-9))
+and recovering tetanus neurotoxin variants from ancient DNA
+([Nature Communications, 2023](https://doi.org/10.1038/s41467-023-41174-0)).
+
+![Toxin A (inner ring) and toxin B (outer ring) subtypes mapped onto a phylogeny of
+1,934 *C. difficile* genomes, with hypervirulent epidemic strains starred. From
+Mansfield, Tremblay et al. (2020), *PLOS Pathogens*, Fig. 2A
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/cdiff.png){fig-alt="Circular phylogenetic tree of C. difficile genomes with coloured rings of toxin subtypes"}
+
+## SARS-CoV-2 and the human airway
+
+During the COVID-19 pandemic I worked with clinicians and virologists on SARS-CoV-2, predicting its recombination potential ([Journal of General Virology, 2020](https://doi.org/10.1099/jgv.0.001491)) and profiling viral receptors and interferon responses in human airway epithelium ([European Respiratory Journal, 2020](https://doi.org/10.1183/13993003.01123-2020); [iScience, 2021](https://doi.org/10.1016/j.isci.2021.102477)).
+
+![Comparing the SARS-CoV-2 and MERS-CoV genomes: syntenic blocks between the two
+genomes (left) and percentage identity along their alignment (right), with three
+regions of high similarity numbered. From Banerjee, Doxey, Tremblay, Mansfield et al.
+(2020), *Journal of General Virology*, Fig. 1a and 1c
+([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/sarscov2.png){fig-alt="Synteny dot plot and sliding-window identity plot of SARS-CoV-2 against MERS-CoV"}

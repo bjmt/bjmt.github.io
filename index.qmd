@@ -1,0 +1,72 @@
+---
+title: "Benjamin Jean-Marie Tremblay"
+subtitle: "Transcriptional regulation in plants"
+pagetitle: "Benjamin Tremblay"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:benjmtremblay@gmail.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/bjmt
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=IvuHC1UAAAAJ
+    - text: ORCID
+      href: https://orcid.org/0000-0002-7441-2951
+---
+
+I study how regulatory DNA controls transcription in plants: where transcription
+starts, how much of it happens, and how those decisions change during development
+and in response to the environment. My work combines genome-wide assays of
+transcription initiation and chromatin, plant genetics, and computational models
+of regulatory sequence, and I write and maintain open-source software for the
+genomics community.
+
+I am a postdoctoral scientist in [Tatsuya Nobori's group](https://www.tsl.ac.uk/our-work/scientific-groups/tatsuya-nobori-group)
+at The Sainsbury Laboratory in Norwich, where I use capped-small RNA sequencing
+(csRNA-seq), single-nucleus multiomics and sequence-to-function models to study how
+plant cells switch on immune responses. Before that I did my PhD with Julia Qüesta
+at CRAG in Barcelona on non-coding transcription during the seed-to-seedling
+transition, and my MSc at the University of Waterloo with Barbara Moffatt.
+
+## Education
+
+**PhD, Plant Biology and Biotechnology** (2024)\
+CRAG / Autonomous University of Barcelona, Spain\
+*Non-coding regulation of transcription during plant development*\
+Cum Laude, International Doctorate Mention
+
+**MSc, Biology** (2019)\
+University of Waterloo, Canada\
+*Investigating the impact of 5'-methylthioadenosine accumulation in* Arabidopsis thaliana\
+Dean of Science Award
+
+**BSc, Honours Biology** (2016)\
+University of Waterloo, Canada
+
+## Experience
+
+**Postdoctoral Scientist** (2024 to present)\
+The Sainsbury Laboratory, Nobori group, Norwich, UK
+
+**International PhD secondment** (2024)\
+Institute of Plant Sciences Paris-Saclay (IPS2), ChromD team, France
+
+**Research Assistant and PhD researcher** (2020 to 2024)\
+Centre for Research in Agricultural Genomics (CRAG), Epigenetics and Plant
+Development group, Barcelona, Spain
+
+**Bioinformatics Research Assistant** (2019 to 2020)\
+University of Waterloo, Doxey lab, Canada
+
+**Summer Research Student** (2016)\
+Heidelberg University, Hell lab, Germany\
+Ontario/Baden-Württemberg Summer Research Program
+
+**MSc researcher** (2016 to 2019)\
+University of Waterloo, Moffatt lab, Canada

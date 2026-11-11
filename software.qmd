@@ -1,0 +1,89 @@
+---
+title: "Software"
+---
+
+Alongside my research I develop and maintain open-source software for genomics.
+Most of it is written in C, C++ or R, with more recent work in Rust and Python, and
+is released through Bioconductor, CRAN, Bioconda, PyPI and crates.io with tests and
+continuous integration.
+
+## universalmotif
+
+An R package for importing, exporting, converting, scanning and comparing biological
+sequence motifs, with its performance-critical code written in C++. I have written
+and maintained it since 2018, and it has been downloaded more than 150,000 times
+across Bioconductor and Bioconda.
+
+[Bioconductor](https://bioconductor.org/packages/universalmotif) ·
+[GitHub](https://github.com/bjmt/universalmotif) ·
+[Paper (JOSS, 2024)](https://doi.org/10.21105/joss.07012)
+
+The package also has Rust and Python versions. The Rust crate covers most of what
+the R package does, is checked against it, and is the multithreaded engine behind
+the Python package, which returns numpy arrays and polars DataFrames.
+
+- Python: [PyPI](https://pypi.org/project/universalmotif/) ·
+  [Documentation](https://bjmt.github.io/universalmotif-py/) ·
+  [GitHub](https://github.com/bjmt/universalmotif-py)
+- Rust: [crates.io](https://crates.io/crates/universalmotif) ·
+  [docs.rs](https://docs.rs/universalmotif) ·
+  [GitHub](https://github.com/bjmt/universalmotif-rs)
+
+## quaqc
+
+Quality control and filtering for ATAC-seq data from any genome, written in C on top
+of htslib and built for large multi-sample studies: in the documented example it
+processes around 80 million *Arabidopsis* ATAC-seq reads in about a minute. It also
+works for other unspliced sequencing data such as ChIP-seq. A companion R package,
+quaqcr, wraps quaqc and adds tools for analysing and plotting its results.
+
+[Bioconda](https://bioconda.github.io/recipes/quaqc/README.html) ·
+[GitHub](https://github.com/bjmt/quaqc) ·
+[Paper (Bioinformatics, 2024)](https://doi.org/10.1093/bioinformatics/btae649)\
+quaqcr: [CRAN](https://cran.r-project.org/package=quaqcr) ·
+[GitHub](https://github.com/bjmt/quaqcr)
+
+## Other tools
+
+- [bwtk](https://github.com/bjmt/bwtk): conversion, merging, subsetting and
+  transformation of bigWig and bedGraph files (C).
+  [Bioconda](https://bioconda.github.io/recipes/bwtk/README.html)
+- [yamtk](https://github.com/bjmt/yamtk): genome-scale scanning and enrichment of
+  transcription factor binding sites (C).
+- [bam2td](https://github.com/noborilab/bam2td): builds HOMER tag directories
+  directly from SAM, BAM or CRAM files, handling CIGAR operations that HOMER's own
+  parser gets wrong (C).
+- [msaviz](https://github.com/bjmt/msaviz): visualisation of multiple sequence
+  alignments as ggplot2 heatmaps or lollipop charts, fast even for alignments with
+  millions of cells (R).
+
+## Data resources
+
+- [TAIR12 blacklist](https://doi.org/10.5281/zenodo.20084760): regions of the TAIR12
+  *Arabidopsis* assembly with anomalous signal in sequencing experiments, to filter
+  out of ATAC-seq and ChIP-seq analyses. Generated with the ENCODE Blacklist pipeline
+  to match the TAIR10 blacklist of Klasfeld et al. (2022), with Tatsuya Nobori.
+  [GitHub](https://github.com/noborilab/TAIR12_blacklist)
+
+## Pipelines
+
+For the Nobori group I built
+[csRNAseq_pipeline](https://github.com/noborilab/csRNAseq_pipeline), a tested and
+containerised Snakemake workflow for csRNA-seq, together with
+[bfqutils](https://github.com/noborilab/bfqutils) (FASTQ trimming, merging and
+analysis in C) and [tssUtils](https://github.com/noborilab/tssUtils) (transcription
+start site analysis in R).
+
+## Earlier projects
+
+- [PhyloCorrelate](https://phylocorrelate.uwaterloo.ca): a database and R package for
+  inferring bacterial gene functional associations from phylogenetic profiles.
+  [GitHub](https://github.com/bjmt/phylocorrpkg)
+- [DiffBase](https://diffbase.uwaterloo.ca): a classification of *C. difficile*
+  toxin subtypes. [GitHub](https://github.com/doxeylab/diffBase)
+- [PathFams](https://doi.org/10.1186/s12864-021-07982-8): statistical detection of
+  pathogen-associated protein domains.
+- [mirlyn](https://github.com/escamero/mirlyn): diversity analysis of amplicon
+  sequencing data with repeated rarefying, to account for the uncertainty that
+  rarefying introduces (R).
+  [Paper (Scientific Reports, 2021)](https://doi.org/10.1038/s41598-021-01636-1)

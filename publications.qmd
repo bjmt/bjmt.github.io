@@ -1,0 +1,77 @@
+---
+title: "Publications"
+---
+
+Also on [Google Scholar](https://scholar.google.com/citations?user=IvuHC1UAAAAJ) and
+[ORCID](https://orcid.org/0000-0002-7441-2951). \* co-first author; † corresponding
+author.
+
+## Research articles: first or co-first author
+
+- Ormancey M\*, **Tremblay BJM\***, Cheng Y\*, et al. (2026). Autumn–winter progression triggers distinct transcriptional programs in *Arabidopsis thaliana*. *Genome Biology*.
+  [doi:10.1186/s13059-026-04289-3](https://doi.org/10.1186/s13059-026-04289-3) · [Code](https://github.com/bjmt/Ormancey_et_al_2026_Autumn_winter_transition)
+- **Tremblay BJM†**, Adeel SA, Saechao M, et al. (2026). Methylthioadenosine-driven rewiring of sulfur assimilation lowers the methyl index and fertility in *Arabidopsis*. *Journal of Experimental Botany* 77, 6209–6223.
+  [doi:10.1093/jxb/erag135](https://doi.org/10.1093/jxb/erag135) · [Code](https://github.com/bjmt/Tremblay_et_al_2026_MTN)
+- **Tremblay BJM**, Santini CP, Cheng Y, et al. (2024). Interplay between coding and non-coding regulation drives the *Arabidopsis* seed-to-seedling transition. *Nature Communications* 15, 1724.
+  [doi:10.1038/s41467-024-46082-5](https://doi.org/10.1038/s41467-024-46082-5) · [Code](https://github.com/bjmt/Tremblay_et_al_2024_Seed_to_seedling)
+- **Tremblay BJM**, Lobb B, Doxey AC (2021). PhyloCorrelate: inferring bacterial gene-gene functional associations through large-scale phylogenetic profiling. *Bioinformatics* 37, 17–22.
+  [doi:10.1093/bioinformatics/btaa1105](https://doi.org/10.1093/bioinformatics/btaa1105) · [Code](https://github.com/bjmt/phylocorrpkg) · [Web app code](https://github.com/doxeylab/phylocorrelate)
+- Mansfield MJ\*, **Tremblay BJM\***, Zeng J, et al. (2020). Phylogenomics of 8,839 *Clostridioides difficile* genomes reveals recombination-driven evolution and diversification of toxin A and B. *PLOS Pathogens* 16, e1009181.
+  [doi:10.1371/journal.ppat.1009181](https://doi.org/10.1371/journal.ppat.1009181) · [DiffBase](https://github.com/doxeylab/diffBase) · [Analysis code](https://github.com/doxeylab/diffBaseAnalyses)
+- Banerjee A\*, Doxey AC\*, **Tremblay BJM\***, Mansfield MJ\*, et al. (2020). Predicting the recombination potential of severe acute respiratory syndrome coronavirus 2 and Middle East respiratory syndrome coronavirus. *Journal of General Virology* 101, 1251–1260.
+  [doi:10.1099/jgv.0.001491](https://doi.org/10.1099/jgv.0.001491)
+
+## Software papers
+
+- **Tremblay BJM†**, Qüesta JI† (2024). quaqc: efficient and quick ATAC-seq quality control and filtering. *Bioinformatics* 40, btae649.
+  [doi:10.1093/bioinformatics/btae649](https://doi.org/10.1093/bioinformatics/btae649) · [Code](https://github.com/bjmt/quaqc) · [R package](https://github.com/bjmt/quaqcr)
+- **Tremblay BJM†** (2024). universalmotif: an R package for biological motif analysis. *Journal of Open Source Software* 9, 7012.
+  [doi:10.21105/joss.07012](https://doi.org/10.21105/joss.07012) · [Code](https://github.com/bjmt/universalmotif)
+
+## Research articles: co-author
+
+- Cheng Y, **Tremblay BJM**, Balanzá V, et al. (2025). The transcriptional regulator VAL1 promotes *Arabidopsis* flowering by repressing the organ boundary genes BOP1 and BOP2. *Plant Physiology* 198, kiaf160.
+  [doi:10.1093/plphys/kiaf160](https://doi.org/10.1093/plphys/kiaf160)
+- Hodgins HP, …, **Tremblay BJM**, et al. (2023). Ancient *Clostridium* DNA and variants of tetanus neurotoxins associated with human archaeological remains. *Nature Communications* 14, 5475.
+  [doi:10.1038/s41467-023-41174-0](https://doi.org/10.1038/s41467-023-41174-0) · [Code](https://github.com/harohodg/aDNA-tetanus-analysis) · [msaviz](https://github.com/bjmt/msaviz)
+- Tian S, …, **Tremblay BJM**, et al. (2022). Identification of TFPI as a receptor reveals recombination-driven receptor switching in *Clostridioides difficile* toxin B variants. *Nature Communications* 13, 6786.
+  [doi:10.1038/s41467-022-33964-9](https://doi.org/10.1038/s41467-022-33964-9) · [Code](https://github.com/doxeylab/haploColor)
+- Wentz TG, **Tremblay BJM**, Bradshaw M, et al. (2022). Endogenous CRISPR-Cas systems in group I *Clostridium botulinum* and *Clostridium sporogenes* do not directly target the botulinum neurotoxin gene cluster. *Frontiers in Microbiology* 12, 787726.
+  [doi:10.3389/fmicb.2021.787726](https://doi.org/10.3389/fmicb.2021.787726)
+- Lobb B, **Tremblay BJM**, Moreno-Hagelsieb G, Doxey AC (2021). PathFams: statistical detection of pathogen-associated protein domains. *BMC Genomics* 22, 663.
+  [doi:10.1186/s12864-021-07982-8](https://doi.org/10.1186/s12864-021-07982-8)
+- Cameron ES, Schmidt PJ, **Tremblay BJM**, et al. (2021). Enhancing diversity analysis by repeatedly rarefying next generation sequencing data describing microbial communities. *Scientific Reports* 11, 22302.
+  [doi:10.1038/s41598-021-01636-1](https://doi.org/10.1038/s41598-021-01636-1) · [mirlyn](https://github.com/escamero/mirlyn)
+- Banerjee A, …, **Tremblay BJM**, et al. (2021). Experimental and natural evidence of SARS-CoV-2-infection-induced activation of type I interferon responses. *iScience* 24, 102477.
+  [doi:10.1016/j.isci.2021.102477](https://doi.org/10.1016/j.isci.2021.102477)
+- Fantauzzi MF, Aguiar JA, **Tremblay BJM**, et al. (2020). Expression of endocannabinoid system components in human airway epithelial cells: impact of sex and chronic respiratory disease status. *ERJ Open Research* 6, 00128-2020.
+  [doi:10.1183/23120541.00128-2020](https://doi.org/10.1183/23120541.00128-2020)
+- Cao Q, Aguiar JA, **Tremblay BJM**, et al. (2020). ABCF1 regulates dsDNA-induced immune responses in human airway epithelial cells. *Frontiers in Cellular and Infection Microbiology* 10, 487.
+  [doi:10.3389/fcimb.2020.00487](https://doi.org/10.3389/fcimb.2020.00487)
+- Aguiar JA, **Tremblay BJM**, Mansfield MJ, et al. (2020). Gene expression and in situ protein profiling of candidate SARS-CoV-2 receptors in human airway epithelial cells and lung tissue. *European Respiratory Journal* 56, 2001123.
+  [doi:10.1183/13993003.01123-2020](https://doi.org/10.1183/13993003.01123-2020)
+- Lobb B, **Tremblay BJM**, Moreno-Hagelsieb G, Doxey AC (2020). An assessment of genome annotation coverage across the bacterial tree of life. *Microbial Genomics* 6, e000341.
+  [doi:10.1099/mgen.0.000341](https://doi.org/10.1099/mgen.0.000341)
+
+## Reviews and book chapters
+
+- **Tremblay BJM**, Qüesta JI (2026). Identification of accessible transcription factor binding sites during the seed-to-seedling transition. *Methods in Molecular Biology* 2985, 51–62.
+  [doi:10.1007/978-1-0716-4972-5_4](https://doi.org/10.1007/978-1-0716-4972-5_4)
+- **Tremblay BJM**, Qüesta JI (2025). Non-coding and epigenetic mechanisms in the regulation of seed germination in *Arabidopsis thaliana*. *Journal of Experimental Botany* 76, 2455–2467.
+  [doi:10.1093/jxb/eraf051](https://doi.org/10.1093/jxb/eraf051)
+- **Tremblay BJM**, Qüesta JI (2023). Mechanisms of epigenetic regulation of transcription by lncRNAs in plants. *IUBMB Life* 75, 427–439.
+  [doi:10.1002/iub.2681](https://doi.org/10.1002/iub.2681)
+
+## Preprints
+
+- Cameron ES, **Tremblay BJM**, Yahr R, et al. (2026). Transposable element diversification and the evolution of Peltigerales lichen symbionts. *bioRxiv*.
+  [doi:10.64898/2026.02.14.705750](https://doi.org/10.64898/2026.02.14.705750)
+
+## Features in *Plant Physiology*
+
+- **Tremblay BJM** (2026). A link to the past: the *Bangia* genome connects an ancient body plan to modern stress biology. *Plant Physiology* kiag830.
+  [doi:10.1093/plphys/kiag830](https://doi.org/10.1093/plphys/kiag830)
+- **Tremblay BJM** (2026). Two genes, one switch: a bidirectional promoter strategy for inducible plant immunity. *Plant Physiology* 201, kiag243.
+  [doi:10.1093/plphys/kiag243](https://doi.org/10.1093/plphys/kiag243)
+- **Tremblay BJM** (2026). Position matters: light repatterns m6A to tune anthocyanin accumulation in roses. *Plant Physiology* 200, kiag125.
+  [doi:10.1093/plphys/kiag125](https://doi.org/10.1093/plphys/kiag125)
