@@ -36,7 +36,7 @@ ordered by the distance between their two start sites. From Tremblay et al. (202
 *Nature Communications*, Fig. 6d
 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).](images/research/initiation.png){fig-alt="Five heatmaps of sequencing signal around divergent promoters"}
 
-## Plant immunity, cell by cell
+## Plant immunity
 
 At The Sainsbury Laboratory I study how plant cells switch on immune responses. I
 combine a csRNA-seq time course with single-nucleus RNA and ATAC multiomics of
