@@ -24,6 +24,8 @@ about:
       href: https://scholar.google.com/citations?user=IvuHC1UAAAAJ
     - text: ORCID
       href: https://orcid.org/0000-0002-7441-2951
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Benjamin-Tremblay-2
 ---
 
 I study how regulatory DNA controls transcription in plants: where transcription
