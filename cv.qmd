@@ -56,13 +56,13 @@ corresponding author, plus a book chapter; full list on the
 
 ## Mentoring
 
-- PhD rotation student Revocatus Byanyuma-Bahitwa, Nobori group, The Sainsbury Laboratory (2026)
-- Predoctoral intern Vidyashree Shivakumaraswamy, Nobori group, The Sainsbury Laboratory (2024–2025)
-- MSc thesis co-supervisor for Cristina P. Santini, CRAG (2022–2023): thesis on
-  antisense long non-coding RNAs in *Arabidopsis* germination; co-author on our
+- PhD rotation student, Nobori group, The Sainsbury Laboratory (2026)
+- Predoctoral intern, Nobori group, The Sainsbury Laboratory (2024–2025)
+- MSc thesis co-supervisor, CRAG (2022–2023): thesis on antisense long non-coding
+  RNAs in *Arabidopsis* germination; the student is a co-author on our
   [*Nature Communications* paper](https://doi.org/10.1038/s41467-024-46082-5)
-- Honours thesis mentor for Saeer Adeel (2018–2019) and John Steele (2016–2017),
-  University of Waterloo; both are co-authors on our
+- Honours thesis mentor for two students, University of Waterloo (2016–2017 and
+  2018–2019); both are co-authors on our
   [*Journal of Experimental Botany* paper](https://doi.org/10.1093/jxb/erag135)
 
 ## Teaching
